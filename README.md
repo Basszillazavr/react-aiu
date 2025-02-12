@@ -71,9 +71,9 @@ Your application should now be running at `http://localhost:3000/`.
 ### Customize Theme (Optional)
 To customize the Ant Design theme, install `less` and `less-loader`:
 ```sh
-npm install less less-loader
+npm install react-router-dom
 # or using yarn
-# yarn add less less-loader
+# yarn add react-router-dom
 ```
 Then modify the Webpack configuration or use `craco` to override default styles.
 
